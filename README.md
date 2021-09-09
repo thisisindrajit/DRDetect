@@ -5,3 +5,7 @@
 - The manual diagnosis of DR takes time and effort and is prone to errors.
 
 - We intend to propose a deep learning based solution to automatically detect and classify diabetic retinopathy by examining the images of eye retina taken using fundus cameras.
+
+## Interesting Links
+
+- [Link 1](https://github.com/FDU-VTS/Awesome-Diabetic-Retinopathy-Detection)
